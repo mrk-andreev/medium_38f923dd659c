@@ -1,4 +1,4 @@
-# PySpark Test with SparkSession
+# [How to write tests for PySpark](https://medium.com/@mark.andreev/how-to-write-tests-for-pyspark-38f923dd659c)
 
 Test spark function like `evaluate_feature_avg_price_per_merchant`
 
